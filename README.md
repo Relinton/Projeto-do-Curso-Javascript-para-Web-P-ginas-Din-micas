@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto foi desenvolvido nas aulas do Curso Javascript para web páginas Dinâmicas do Alura, o Alura Midi é um instrumento musical de interface digital, onde a cada botão clicado é reproduzido o som de um instrumento. 
+Este projeto foi desenvolvido em acompanhamento das aulas do Curso Javascript para web páginas Dinâmicas do Alura, o Alura Midi é um instrumento musical de interface digital, onde a cada botão clicado é reproduzido o som de um instrumento. 
 
 ## Layout web
 ![paginacaodatatable](https://user-images.githubusercontent.com/32855779/161625983-8aa7e475-7165-4129-87e8-d7353c7bc2d5.png)
